@@ -10,7 +10,7 @@
 ```
 > Then Comile your form with:
 ```
-  <form data-fsl data-icon="true" data-button="wait..." data-color="#000000">
+  <form data-fsl data-icon="true" data-button="Wait..." data-color="#ffffff">
   ...
 ```
 👻 This perform the loading in your Awesome Form by javascript
