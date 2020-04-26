@@ -1,4 +1,4 @@
-# Form Submit Loader <img src="loading.svg" width="45"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" width="40">
+# HTML5 Form Submit Loader <img src="loading.svg" width="45"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" width="40">
 
 > Small lib for show loading when Form Submit in HTML5.
 
