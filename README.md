@@ -8,9 +8,16 @@
 ```
   <script src="https://cdn.jsdelivr.net/gh/MwSpaceLLC/formSubmitLoading@1.1/formSubmitLoading.min.js"></script>
 ```
-> Then Comile your form with:
+> Basic same codepen example:
+```
+  <form data-fsl data-icon="true">
+  ...
+```
+
+> Complete props implements:
 ```
   <form data-fsl data-icon="true" data-button="Wait..." data-color="#ffffff">
   ...
 ```
+
 👻 This perform the loading in your Awesome Form by javascript
