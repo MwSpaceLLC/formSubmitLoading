@@ -6,7 +6,7 @@
 
 > First, Import plugin with cdn after jquery: 
 ```
-  <script src="https://cdn.jsdelivr.net/gh/MwSpaceLLC/formSubmitLoading@1.1/formSubmitLoading.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/MwSpaceLLC/formSubmitLoading@1.2/formSubmitLoading.min.js"></script>
 ```
 > Basic same codepen example:
 ```
